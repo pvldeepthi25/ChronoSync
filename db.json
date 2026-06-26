@@ -1,0 +1,113 @@
+{
+  "users": [
+    {
+      "username": "commander",
+      "password": "password123",
+      "clearance": "LEVEL_3"
+    },
+    {
+      "username": "officer",
+      "password": "password123",
+      "clearance": "LEVEL_2"
+    },
+    {
+      "username": "cadet",
+      "password": "password123",
+      "clearance": "LEVEL_1"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "task_100",
+      "description": "Recalibrate life support telemetry matrix.",
+      "clearanceRequired": "LEVEL_3",
+      "expirationTimestamp": 1785945600000
+    },
+    {
+      "id": "task_100",
+      "description": "Purge contaminated plasma conduits from primary propulsion grid",
+      "clearanceRequired": "LEVEL_3",
+      "expirationTimestamp": 1785945600000
+    },
+    {
+      "id": "task_100",
+      "description": "Override antimatter injector safety interlocks for hyper-jump.",
+      "clearanceRequired": "LEVEL_3",
+      "expirationTimestamp": 1785945600000
+    },
+    {
+      "id": "task_100",
+      "description": "Authorize manual decryption of the temporal nexus mainframe.",
+      "clearanceRequired": "LEVEL_3",
+      "expirationTimestamp": 1785945600000
+    },
+    {
+      "id": "task_100",
+      "description": "Re-align dark matter shielding vectors around sub-space antenna.",
+      "clearanceRequired": "LEVEL_3",
+      "expirationTimestamp": 1785945600000
+    },
+    {
+      "id": "task_101",
+      "description": "Synchronize encrypted communication arrays with sector outpost.",
+      "clearanceRequired": "LEVEL_2",
+      "expirationTimestamp": 1785945600000
+    },
+    {
+      "id": "task_101",
+      "description": "Flush coolant bypass valves on auxiliary gravity generators.",
+      "clearanceRequired": "LEVEL_2",
+      "expirationTimestamp": 1785945600000
+    },
+    {
+      "id": "task_101",
+      "description": "Deploy automated repair drones to structural breach sector seven.",
+      "clearanceRequired": "LEVEL_2",
+      "expirationTimestamp": 1785945600000
+    },
+    {
+      "id": "task_101",
+      "description": "Isolate localized malware signature inside navigational database.",
+      "clearanceRequired": "LEVEL_2",
+      "expirationTimestamp": 1785945600000
+    },
+    {
+      "id": "task_101",
+      "description": "Calibrate defensive shield harmonic frequencies to phase shift.",
+      "clearanceRequired": "LEVEL_2",
+      "expirationTimestamp": 1785945600000
+    },
+    {
+      "id": "task_101",
+      "description": "Run automated diagnostic loop on atmospheric scrubbers.",
+      "clearanceRequired": "LEVEL_1",
+      "expirationTimestamp": 1785945600000
+    },
+    {
+      "id": "task_102",
+      "description": "Defragment data storage clusters in cargo bay telemetry.",
+      "clearanceRequired": "LEVEL_1",
+      "expirationTimestamp": 1785945600000
+    },
+    {
+      "id": "task_102",
+      "description": "Recharge localized power cells for exterior maintenance rigs.",
+      "clearanceRequired": "LEVEL_1",
+      "expirationTimestamp": 1785945600000
+    },
+    {
+      "id": "task_102",
+      "description": "Scan proximity sensors for micro-meteoroid debris trails.",
+      "clearanceRequired": "LEVEL_1",
+      "expirationTimestamp": 1785945600000
+    },
+    {
+      "id": "task_102",
+      "description": "Verify biometric check-ins for distributed sector crew.",
+      "clearanceRequired": "LEVEL_1",
+      "expirationTimestamp": 1785945600000
+    }
+
+ 
+  ]
+}
